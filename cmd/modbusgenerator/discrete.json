@@ -1,0 +1,21 @@
+[{
+    "type": "wordInt16LittleEndian",
+    "number": 1,
+    "regAddr": 400
+}, {
+    "type": "wordInt16LittleEndian",
+    "number": 0,
+    "regAddr": 401
+}, {
+    "type": "wordInt16LittleEndian",
+    "number": 1,
+    "regAddr": 402
+}, {
+    "type": "wordInt16LittleEndian",
+    "number": 0,
+    "regAddr": 404
+}, {
+    "type": "wordInt16LittleEndian",
+    "number": 1,
+    "regAddr": 404
+}]

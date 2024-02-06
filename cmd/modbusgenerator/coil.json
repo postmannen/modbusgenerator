@@ -1,0 +1,21 @@
+[{
+    "type": "wordInt16BigEndian",
+    "number": 1,
+    "regAddr": 301
+}, {
+    "type": "wordInt16BigEndian",
+    "number": 1,
+    "regAddr": 302
+}, {
+    "type": "wordInt16BigEndian",
+    "number": 1,
+    "regAddr": 303
+}, {
+    "type": "wordInt16BigEndian",
+    "number": 0,
+    "regAddr": 304
+}, {
+    "type": "wordInt16BigEndian",
+    "number": 1,
+    "regAddr": 305
+}]
